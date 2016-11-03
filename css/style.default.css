@@ -68,6 +68,7 @@ h4.heading:after {
 }
 .img-responsive {
   margin: 0 auto;
+  max-width: 90% !important;
 }
 .box {
   margin-bottom: 30px;
