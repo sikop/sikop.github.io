@@ -280,7 +280,7 @@ body.disabled-onepage-scroll .onepage-wrapper section {
 }
 /* navbar */
 .navbar {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
   min-height: 80px;
   margin-bottom: 30px;
   border-bottom: 1px solid transparent;
@@ -528,7 +528,7 @@ body.disabled-onepage-scroll .onepage-wrapper section {
 }
 /* scaffolding */
 body {
-  font-family: "Cardo", "Times New Roman", Times, serif;
+  font-family: 'Roboto', sans-serif;;
   font-size: 16px;
   line-height: 1.42857143;
   color: #333333;
@@ -661,7 +661,7 @@ fieldset[disabled] .btn-primary.active {
 }
 /* labels */
 .label {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;;
   font-weight: normal;
   text-transform: uppercase;
 }
