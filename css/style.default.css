@@ -154,6 +154,7 @@ p.social a.email {
 }
 .copyright p.credit {
   text-align: right;
+  display:none;
 }
 .copyright p.credit a {
   color: #999999;
