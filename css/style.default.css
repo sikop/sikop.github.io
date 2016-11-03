@@ -858,6 +858,7 @@ p {
 .lead {
   margin-bottom: 22px;
   font-size: 18px;
+  font-weight: 700 !important;
 }
 @media (min-width: 768px) {
   .lead {
