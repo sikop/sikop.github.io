@@ -31,6 +31,9 @@ h2 {
     display: none;
 }
 
+a {
+    color: #C10011;
+}
 /* Mobil*/
 
 @media (max-width: 991px) {
