@@ -34,6 +34,11 @@ h2 {
 a {
     color: #C10011;
 }
+
+a:hover, a:focus {
+    color: #C10011;
+}
+
 /* Mobil*/
 
 @media (max-width: 991px) {
