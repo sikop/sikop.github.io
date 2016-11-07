@@ -1,5 +1,15 @@
 /* Allgemein */
 
+@font-face {
+    font-family: 'SEGA-LOGO-FONT';
+    src:url('https://sikop.github.io/fonts/SEGA-LOGO-FONT.ttf.woff') format('woff'),
+        url('https://sikop.github.io/fonts/SEGA-LOGO-FONT.ttf.svg#SEGA-LOGO-FONT') format('svg'),
+        url('https://sikop.github.io/fonts/SEGA-LOGO-FONT.ttf.eot'),
+        url('https://sikop.github.io/fonts/SEGA-LOGO-FONT.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
 body.disabled-onepage-scroll .onepage-wrapper section {
     min-height: 80%;
 }
