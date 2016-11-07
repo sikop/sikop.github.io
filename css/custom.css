@@ -43,6 +43,14 @@ a:hover, a:focus {
     border: 0px !important;
 }
 
+.onepage-pagination li a.active:before {
+        border: 2px solid #C10011;
+}
+
+.onepage-pagination li a:before {
+    background: rgb(193,0,17);
+}
+
 /* Mobil*/
 
 @media (max-width: 991px) {
