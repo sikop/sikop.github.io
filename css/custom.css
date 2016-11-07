@@ -40,7 +40,7 @@ a:hover, a:focus {
 }
 
 #page1 .icon {
-    border: none;
+    border: 0px;
 }
 
 /* Mobil*/
