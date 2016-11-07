@@ -1,0 +1,18 @@
+/* Allgemein */
+
+body.disabled-onepage-scroll .onepage-wrapper section {
+    min-height: 80%;
+}
+
+/* Mobil*/
+
+@media (max-width: 991px) {
+
+    .img-responsive {
+         margin: 0 auto;
+         max-width: 75% !important;
+         margin-top: 105px;
+    }
+
+
+}
