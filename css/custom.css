@@ -21,6 +21,16 @@ h1 {
     font-size: 58px;
 }
 
+h2 {
+    font-family: 'SEGA-LOGO-FONT';
+    font-weight: normal;
+    color: #C10011 !important;
+}
+
+.heading:after {
+    display: none;
+}
+
 /* Mobil*/
 
 @media (max-width: 991px) {
