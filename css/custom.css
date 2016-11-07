@@ -14,6 +14,10 @@ body.disabled-onepage-scroll .onepage-wrapper section {
     min-height: 80%;
 }
 
+h1 {
+    font-family: 'SEGA-LOGO-FONT';
+}
+
 /* Mobil*/
 
 @media (max-width: 991px) {
