@@ -39,6 +39,10 @@ a:hover, a:focus {
     color: #C10011;
 }
 
+#page1 .icon {
+    border: none;
+}
+
 /* Mobil*/
 
 @media (max-width: 991px) {
